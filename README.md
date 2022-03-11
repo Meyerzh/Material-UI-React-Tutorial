@@ -22,3 +22,19 @@ yarn add @mui/material @emotion/react @emotion/styled
 
 
 
+## 04-add-material-icons
+
+```bash
+// 使用 npm 安装
+npm install @mui/icons-material
+
+// 使用 yarn 安装
+yarn add @mui/icons-material
+
+npm install @mui/lab
+
+```
+
+Install icons: https://mui.com/zh/components/icons/
+Icon list : https://mui.com/zh/components/material-icons/
+
